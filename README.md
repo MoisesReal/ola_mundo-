@@ -1,2 +1,3 @@
-# ola_mundo 
- primeiro repositorio vercionario 
+# Olá, Mundo! 
+ primeiro repositorio 
+ repositorio criado com guanabara no curso em video
